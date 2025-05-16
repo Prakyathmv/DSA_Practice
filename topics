@@ -1,0 +1,76 @@
+1. Arrays and Strings:
+Find the longest substring without repeating characters.
+
+Given an array of integers, find the pair with the given sum.
+
+Rotate an array by k elements.
+
+Merge two sorted arrays without using extra space.
+
+Find the majority element in an array.
+
+2. Linked Lists:
+Reverse a linked list (iterative and recursive).
+
+Detect a cycle in a linked list and find the starting node.
+
+Merge two sorted linked lists.
+
+Find the intersection point of two linked lists.
+
+Remove duplicates from an unsorted linked list.
+
+3. Stacks and Queues:
+Implement a queue using two stacks.
+
+Evaluate a postfix expression.
+
+Find the largest rectangular area in a histogram.
+
+Implement a stack that supports push(), pop(), and getMin() in constant time.
+
+Implement an LRU cache using a doubly linked list and a hashmap.
+
+4. Trees and Graphs:
+Implement a binary tree and perform in-order, pre-order, and post-order traversals.
+
+Find the lowest common ancestor (LCA) of two nodes in a binary tree.
+
+Detect a cycle in an undirected graph using BFS/DFS.
+
+Find the shortest path between two nodes in a weighted graph (Dijkstra’s algorithm).
+
+Check if two trees are mirror images of each other.
+
+5. Dynamic Programming:
+Longest Common Subsequence (LCS) problem.
+
+Find the maximum sum of a non-adjacent subarray.
+
+Coin Change Problem (minimum coins to make a value).
+
+Longest Increasing Subsequence (LIS).
+
+Edit Distance between two strings.
+
+6. Sorting and Searching:
+Implement quicksort and merge sort.
+
+Find the kth smallest/largest element in an array.
+
+Search an element in a rotated sorted array.
+
+Find the median of two sorted arrays.
+
+Counting inversions in an array.
+
+7. Backtracking:
+Solve the N-Queens problem.
+
+Find all permutations of a given string.
+
+Generate valid parentheses combinations for n pairs.
+
+Solve a Sudoku puzzle.
+
+Subset sum problem.
